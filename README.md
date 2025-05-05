@@ -1,3 +1,4 @@
+📌 Explanation of Each Step
 🔹 Step 1: Load and filter the dataset
 Dataset: Iris dataset, filtered to keep only 2 classes (binary classification).
 
